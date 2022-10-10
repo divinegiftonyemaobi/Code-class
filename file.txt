@@ -1,0 +1,154 @@
+<html data-brackets-id="631"><head data-brackets-id="632">
+        <meta data-brackets-id="633" charset="utf-8">
+        <meta data-brackets-id="634" http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta data-brackets-id="635" name="description" content="">
+        <meta data-brackets-id="636" name="viewport" content="width=device-width, initial-scale=1">
+        <title data-brackets-id="637">www.Flamex Fashion.Com</title>
+        <link data-brackets-id="638" rel="stylesheet" href="main.css">
+        <link data-brackets-id="639" rel="icon" href="div.ico">
+        <link data-brackets-id="640" rel="stylesheet" type="text/css" href="fontawesome-free-6.1.2-web/css/all.css">
+    </head>
+    <body data-brackets-id="641">
+        <div data-brackets-id="642" class="first">
+            <ul data-brackets-id="643" style="margin-left: 2%;">
+            <li data-brackets-id="644">
+                <a data-brackets-id="645" href="mailto:onyemaobidivinegift.com" rel="noopener" target="_blank"></a>
+                </li>
+            </ul>
+            <p data-brackets-id="646" class="par" style="color: white;margin-top: 9px;margin-left: 10px;">Flamex@gmail.com</p>
+            <ul data-brackets-id="647" style="margin-left: 2%;">
+            <li data-brackets-id="648">
+                <a data-brackets-id="649" href="09024929496" rel="noopener" target="_blank"></a>
+                </li>
+            </ul>
+            <p data-brackets-id="650" class="par" style="color: white;margin-top: 9px;margin-left: 10px;">09024929496</p>
+            <div data-brackets-id="651" class="lay">
+            <ul data-brackets-id="652" style="2%;">
+            <li data-brackets-id="653">
+                <a data-brackets-id="654" href="http://facebook.com/Divinegift Onyemaobi" rel="noopener" target="_blank"></a>
+                </li>
+            </ul>
+            <ul data-brackets-id="655" style="margin-left: 2%;">
+            <li data-brackets-id="656">
+                <a data-brackets-id="657" href="http://twitter.com" rel="noopener" target="_blank"></a>
+                </li>
+            </ul>
+            <ul data-brackets-id="658" style="margin-left: 2%;">
+            <li data-brackets-id="659">
+                <a data-brackets-id="660" href="http://instagram.com" rel="noopener" target="_blank"></a>
+                </li>
+            </ul>
+        </div>
+            </div>
+       
+        <div data-brackets-id="661" class="second">
+            <ul data-brackets-id="662">
+            <li data-brackets-id="663" style="margin-right: 100px;"><a data-brackets-id="664" href="mailto:onyemaobidivinegift">About</a></li>
+                <li data-brackets-id="665"><a data-brackets-id="666" href="mailto:onyemaobidivinegift">Contact</a></li>
+                <li data-brackets-id="667"><a data-brackets-id="668" href="two.html">Services</a></li>
+                <li data-brackets-id="669"><a data-brackets-id="670" href="#">Home</a></li>
+            </ul>
+        </div>
+        <!--        This sidebar is not lisensed for any other programmer. Programmer is liable get trogan horse virus-->
+        <input data-brackets-id="671" type="checkbox" id="menu">
+        <label data-brackets-id="672" for="menu"></label>
+        <sidebar data-brackets-id="673">
+        <p data-brackets-id="674">MENU</p>
+            <i data-brackets-id="675" class="color">Welcome</i>
+            <b data-brackets-id="676">Profile:</b><br data-brackets-id="677">
+            <ul data-brackets-id="678">
+                <li data-brackets-id="679"><i data-brackets-id="680" class="fa fa-home"></i><a data-brackets-id="681" href="#">Home</a></li>
+                
+                <li data-brackets-id="682"><i data-brackets-id="683" class="fa fa-users"></i><a data-brackets-id="684" href="two.html">Services</a></li>
+                <li data-brackets-id="685"><i data-brackets-id="686" class="fa fa-phone"></i><a data-brackets-id="687" href="mailto:onyemaobidivinegift">Contact</a></li>
+                 <li data-brackets-id="688"><i data-brackets-id="689" class="fa fa-info"></i>
+                <a data-brackets-id="690" href="mailto:onyemaobidivinegift">About</a>
+                </li>
+            </ul>
+            <p data-brackets-id="691" class="prov">We are delighted to have you here.</p>
+        </sidebar>
+        <div data-brackets-id="692" class="face">
+            <p data-brackets-id="693">OUR GOAL</p><br data-brackets-id="694"><p data-brackets-id="695">GIVING THE WORLD A BETTER LOOK</p><p data-brackets-id="696" class="name">REPLEX CITY</p>
+        </div>
+        <div data-brackets-id="697" class="third">
+            <p data-brackets-id="698">THE MANAGER - PRODUCER &amp; THE WORKERS PROGRAMME<br data-brackets-id="699">THEME<br data-brackets-id="700"></p>
+            <center data-brackets-id="701">We are happy to see you here</center>
+        </div>
+        <div data-brackets-id="702" class="fort">
+            <p data-brackets-id="703" class="rep">
+                <i data-brackets-id="704" class="fa fa-motorcycle" style="font-size: 35px"></i><br data-brackets-id="705"><br data-brackets-id="706">
+                <span data-brackets-id="707">SAFE DELIVERY</span><br data-brackets-id="708">
+                Safe delivery of your order clothes and shoes</p>
+            
+            <p data-brackets-id="709" class="rep">
+                <i data-brackets-id="710" class="fa fa-money-bill-wave-alt" style="font-size: 35px"></i><br data-brackets-id="711"><br data-brackets-id="712">
+                 <span data-brackets-id="713">AFFORDABLE PRICE</span><br data-brackets-id="714">
+           Affordable prices of your desired  quality clothes and shoes</p>
+        
+            <p data-brackets-id="715" class="rep">
+                <i data-brackets-id="716" class="fa fa-users" style="font-size: 35px"></i><br data-brackets-id="717"><br data-brackets-id="718">
+                <span data-brackets-id="719">OUR SERVICE</span><br data-brackets-id="720">
+                We also offer you a lot to and buy at F Fashion </p>
+            <p data-brackets-id="721" class="rep">
+                <i data-brackets-id="722" class="fa fa-briefcase" style="font-size: 35px"></i><br data-brackets-id="723"><br data-brackets-id="724">
+                <span data-brackets-id="725">BUSINESS LAW</span><br data-brackets-id="726">
+                We offer a wide range of job opportunity in our various branches </p>
+        </div>
+         <div data-brackets-id="727" class="fift">
+            <iframe data-brackets-id="728" src="Neon%20Light%20Button%20Animation%20Effects%20on%20Hover%20CSS%20Snake%20Border.mp4" frameborder="2"></iframe>
+            <p data-brackets-id="729" class="pal">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br data-brackets-id="730"><br data-brackets-id="731">
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+            fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+            culpa qui officia deserunt mollit anim id est laborum.<br data-brackets-id="732"><br data-brackets-id="733"><a data-brackets-id="734" href="#">Join us</a></p>
+        </div>
+        <div data-brackets-id="735" class="cap">
+            <ul data-brackets-id="736">
+                <li data-brackets-id="737"><h3 data-brackets-id="738">DESIGNERS</h3>
+                    <span data-brackets-id="739"></span>
+                    <b data-brackets-id="740">96%</b>
+                </li>
+                <li data-brackets-id="741"><h3 data-brackets-id="742">KIDS</h3>
+                    <span data-brackets-id="743"></span>
+                    <b data-brackets-id="744">$628M+</b>
+                </li>
+                <li data-brackets-id="745"><h3 data-brackets-id="746">CASUAL</h3>
+                    <span data-brackets-id="747"></span>
+                    <b data-brackets-id="748">1,250</b>
+                </li>
+                <li data-brackets-id="749"><h3 data-brackets-id="750">SUITS &amp; BLAZERS</h3>
+                    <span data-brackets-id="751"></span>
+                    <b data-brackets-id="752">$276k+</b>
+                </li>
+                </ul>
+        </div>
+        <div data-brackets-id="753" class="case">
+            <h2 data-brackets-id="754">Case Studies</h2>
+            <a data-brackets-id="755" href="#r">Watch All Works</a>
+        </div>
+        <div data-brackets-id="756" class="team">
+            <h1 data-brackets-id="757">Our Team</h1>
+            <p data-brackets-id="758">Here are Our Team Member who made this company cool.</p>
+            <ul data-brackets-id="759">
+                <li data-brackets-id="760"><img data-brackets-id="761" src="team-1.jpg"><br data-brackets-id="762">
+                    <span data-brackets-id="763">Justin Samuel</span><br data-brackets-id="764">
+                    <b data-brackets-id="765">Lead Designer</b><br data-brackets-id="766">
+                    <a data-brackets-id="767" href="#"><i data-brackets-id="768" class="fa fa-blog"></i></a>
+        
+                </li>
+                <li data-brackets-id="769"><img data-brackets-id="770" src="team-2.jpg"><br data-brackets-id="771">
+                    <span data-brackets-id="772">Brenda Stephen</span><br data-brackets-id="773">
+                    <b data-brackets-id="774">Designer</b><br data-brackets-id="775">
+                    <a data-brackets-id="776" href="#"><i data-brackets-id="777" class="fa fa-blog"></i></a>
+                </li>
+                <li data-brackets-id="778"><img data-brackets-id="779" src="team-3.jpg"><br data-brackets-id="780">
+                    <span data-brackets-id="781">Costa reyes</span><br data-brackets-id="782">
+                    <b data-brackets-id="783">Web Developer</b><br data-brackets-id="784">
+                    <a data-brackets-id="785" href="#"><i data-brackets-id="786" class="fa fa-blog"></i></a>
+                </li>
+                </ul>
+        </div>
+        
+
+</body></html>

@@ -1,0 +1,55 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+form{
+    height: auto;
+/*    margin-top: 20px;*/
+	font-size: 22px;
+    
+}
+fieldset{
+    height: auto;
+	width: 100%;
+    margin-top: 20px;
+    border: 2px solid;
+    padding: 20px;
+	display: inline-block;
+}
+p{
+    font: 30px algerian;
+    font-weight: ;
+    padding: 20px
+}
+span{
+    font-size: 17px;
+    padding-bottom: 20px;
+}
+input[type="text"]{
+    width: 50%;
+	padding: 8px;
+	font-size: 17px;
+}
+input{
+	margin: 10px;
+	margin-right: 0px;
+}
+.bottom{
+/*	margin-top: 100px;*/
+	text-align:center;
+}
+#space{
+	width: 200px;
+	color: white;
+	margin: 0;
+	padding: 0;
+	padding-left: 50px;
+	padding-right: 50px;
+	border:2px solid transparent;
+	background:transparent;
+	border-bottom: 2px dotted white;
+}
+#txt{
+	font-size: 20px;
+}
